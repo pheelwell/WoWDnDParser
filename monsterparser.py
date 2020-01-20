@@ -1,7 +1,8 @@
 import docx
 import pprint
 
-
+#this script is still broken, since it doesn't store in which order monsters are.
+#since this is mid developement I need to think more about it.
 
 currentMonster= "ERROR" #store the current monster name
 currentAttribute= "ERROR" #store the current Attribute name

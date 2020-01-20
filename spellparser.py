@@ -7,6 +7,8 @@ content = [x.strip() for x in content]
 spells = dict()
 lineno = 0
 currentName = "asd"
+#go through every line and look if a new spell starts
+#every spell has a level, so look for that
 for line in content:
     if (line.find('[level') != -1):
         lineno = 0
@@ -15,6 +17,7 @@ for line in content:
         spells[name] = {'lvl': lvl}
         currentName = name
     else:
+        #the lines after the spells are always in the same order
         lineno = lineno+1
         if lineno == 1:
             spells[currentName]["name"] = currentName
@@ -37,7 +40,10 @@ for line in content:
                 "\n" + line.replace("]", "")
             spells[currentName]['desc'] = description
 pp = pprint.PrettyPrinter(indent=2, width=1000)
-#Read all Casters
+
+#at this point we are done with reading spells, but we need to associate them with the classes that can Cast the Spell
+
+#Read all Casters so you know how many casting classes there are
 with open('input/casternames.txt') as f:
     casternamesFile = f.readlines()
 casternamesFile = [x.strip() for x in casternamesFile]
@@ -50,7 +56,7 @@ for line in casternamesFile:
 casterNames.append("MAX")
 pp.pprint(casterNames)
 
-#TODO: Store which spells can be accessed
+#now go through the spellist, wich connects spellnames with casters and add the information about the caster to the spell
 with open('input/spellist.txt') as f:
     spelllistFile = f.readlines()
 spelllistFile = [x.strip() for x in spelllistFile]
@@ -73,23 +79,17 @@ for line in spelllistFile:
 for spellname in spells.keys():
     print(spells[spellname]["name"] + ": " + spells[spellname]["casters"])
 
-
- 
 #pp.pprint(spells)
 
+#At this point all unique wow spells should be in the spells dict for further usage
+#TODO: unmodified 5E spells aswell as XGtE/EE spells doesn't get parsed 
+#   input/dndspells.py holds a dict with all spells, input/xgtespells.py for XGtE only EE is an xml file
 
 
-
-
-
-
-
-
-
-#TODO: Edit main Spell XMLs
-
-# mask for class Names
+# Note: mask for class Names
 # \(([A-Z]{3}?)\)
+
+#this could be the structure for spells, Classes and Races:
 '''
 spellExample = {
     'Slumber': {

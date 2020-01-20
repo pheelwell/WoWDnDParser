@@ -1,4 +1,4 @@
-Alchemist (ALC)
+Alchemist (ALC) 
 ALC 0 Cantrips (0 level) 
 Acid Splash
 Blade Ward
@@ -114,7 +114,7 @@ ALC 4 (4th Level)
 Blight
 Compulsion
 Confusion
-Death Ward ¬– Spirit Shield
+Death Ward – Spirit Shield
 Greater Invisibility
 Polymorph 
 Stone Shape 
