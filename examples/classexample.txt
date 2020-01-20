@@ -1,0 +1,229 @@
+Alchemist (ALC)
+A forsaken stalks the ruins of a murloc village, picking eyes and bits of flesh. As a skulking murloc prepares to jump out at her, she casually tosses a potion at its chest without glancing at it, causing the skin to bubble and blacken with a terrible—the last thing it sees are the forsaken’s fingers reaching forward to take out its light.
+
+A gnome reaches down to his box of alchemist’s supplies, picking a rare herb and some pinches of sea salt, before tossing them into a small battle-beaker warmed by a portable burner. With uncanny calm, he weighs the curative mixture, before delivering it to a dying friend, revivifying her. 
+
+Laughing maniacally as he consumes his potion, the troll rushes into the fight, fingertips mutating into razor-sharp claws, muscles growing larger, and skin hardening as his eyes gleam with the promise of pain.
+
+A goblin mercenary sits on the back of a drugged ogre, tossing explosive potions. Wincing as a human warrior stabs his giant homunculus, he pulls out a potion from his side pouch and jams it down the ogre’s throat. The crunch of teeth against glass invigorates the ogre, and, with a burp, it tosses its arm forward with great strength, tossing the human away as the alchemist laughs in triumph. 
+
+Whether by careful measuring, self-experimentation, explosive mixtures, or supportive potions, an alchemist utilizes their own mix of magic and science, alchemical science, to support and heal wounds, decimate enemies, manifest unusual effects, or augment themselves to wade into battle. These lightly armored individuals are expert in creating a variety of special effects, from temporary explosives to elixirs that revive the dead.
+
+MAGIC AND SCIENCE
+In the Warcraft universe, alchemy is not merely pseudo-chemistry—it is an art that draws power from the primal elements of life, not unlike actual magic. An alchemist is a master of the art who takes it leaps and bounds further than their peers, who are limited in their alchemical products to mere healing poultices and anti-toxins, reaching heights of reviving the dead or manifesting massive explosives. 
+The greatest strength of an alchemist is their versatility. They are able to defend themselves adequately, but can specialize into being battle-chemists who augment themselves with potions before tearing their enemies apart by their own hands. They can choose to focus on the augmentative powers of their mixtures, delaying harm and healing wounds, or to debilitate their enemies with negative status effects. Damage dealt by an alchemist’s potions usually focus on concussive or poison damage, but they are also broad in scope, dealing fire or frost or lighting as required of them. The better they anticipate their opposition, the better the alchemist can prepare. 
+The success of alchemists relies greatly on the formulae and recipes they have in their formula books. They gain new formulae as they gain experience, study other formula books, or research independently. 
+
+THE WEIGHT OF KNOWLEDGE
+Alchemists’ lives may appear mundane, starting as a sage, independent researcher under a mage tower, a plague researcher, or member of a military force’s supply chain. Other alchemists focus on trade, opening alchemy shops and selling anything from curative mixtures to love potions. Others still have adapted their talents to violence, such as serving in mercenary forces or the military, sapping structural defenses and focusing on combat support. 
+The weight of knowledge and the demand for versatile potions calls for even the most sedentary alchemists to venture out to investigate strange happenings, support their friends, or answer the call to heroism. 
+
+Alchemists are students, researchers, and scientists of the mysterious science of alchemy. 
+To choose to alchemist class is to be more than a dabbler in the art of alchemy—they are utilizers of strange techniques that would empower themselves and their allies, experienced craftspeople who can make potions for fractions of the normal time and cost, and some have even modified their bodies to make full use of their skills. 
+Creating poisons, potions, special explosives, and empowering substances, alchemists are either curiosities, prized members of society, or reclusive, feared experts in unstable weird sciences. Alchemy itself is does not fall strictly in one end between science and magic, but is a potent force nonetheless. 
+Alchemists support soldiers and adventurers, and could easily take to the field themselves, brewing and concoct potions, poisons, and poultices to support (or create) allies on the field. Some work to support their communities, others attempt to replicate (or surpass) the work of the Scourge's necromancers, and others focus on self-empowering through strange concoctions they imbibe. 
+
+CREATING AN ALCHEMIST
+As you make your alchemist character, consider the origins of their knowledge: were they self-taught, a student of another alchemist, or did they gain this mastery by esoteric means? Alchemy is a difficult discipline—how did you accomplish the challenge to gain your status? Were you motivated by war, fortune, or by another mean entirely, such as the lack of magical talent to become a spellcaster? 
+Perhaps you preferred the reliable mundane science of alchemy over the unexpected extraordinary power of magic, or took comfort in the fact that you were in demand in an urban setting—there is no lack of adventurers who might need your aid as an alchemist if you yourself do not wish to go out and adventure. Do you have any peers among alchemists? Do they perceive your approach to the science as calm and intellectual, or rash but with great breakthroughs, or a dangerous form of meddling with life and death that should not be tolerated? Do you have a special ambition or goal to achieve as an alchemist—such as making magic-like effects accessible to the mundane public, providing affordable healing and counters to common ailments, or are your creations for your own monetary benefit?
+
+QUICK BUILD 
+You can make an alchemist quickly by following these suggestions. First, Intelligence should be your highest ability score. Make Agility your next-highest if you want to use ranged or finesse weapons, or focus on throwing potions and explosives. Use Strength instead if you wish to empower yourself in battle and engage in combat via the mutate spell. Second, choose the guild artisan or scholar backgrounds. Third, choose the noxious fumes (poison spray), minor alchemy, and fire bolt cantrips, along with the following 1st-level spells for your formula book: burning hands, explosion, mutate, and rejuvenation.
+
+CLASS FEATURES
+As an alchemist, you have the following class features.
+HIT POINTS
+Hit Dice 1d8 per alchemist level
+Hit Points at 1st Level 8 + your Stamina modifier
+Hit Points at Higher Levels 1d8 (or 5) + your Stamina modifier per alchemist level after 1st
+
+PROFICIENCIES
+Armor: Light armor
+Weapons: Simple weapons, hand crossbows, maces, explosives, and short swords.
+Tools: Alchemist’s supplies, and poisoner’s kit
+Saving Throws: Intelligence, Stamina
+Skills: Choose four from Acrobatics, Athletics, Insight, Investigation, Medicine, Perception, Persuasion, Sleight of Hand, and Stealth. 
+
+EQUIPMENT
+You start with the following equipment, in addition to the equipment granted by your background:
+•	(a) A club or (b) a shortsword
+•	(a) A sling or (b) a hand crossbow with 20 bolts
+•	(a) A dungeoneer’s pack, or (b) an explorer’s pack
+•	Leather armor, alchemist's supplies
+•	Formula book, 250 gp worth of alchemy materials (can be spend on character creation)
+
+Alchemist Class
+Level	Proficiency	Features				Rarity		Caster level
+(Spell level)
+1st	+2		Alchemy, Cantrips, Quick Potions 	Common	1 (1st)
+Weird Science
+2nd	+2		Efficient Alchemy			Common	2 (1st)
+3rd	+2		Alchemy Path				Common	3 (2nd)
+4th	+2		Ability Score Improvement		Common 	4 (2nd)
+5th	+3		–					Uncommon	5 (3rd)
+6th	+3		Path Feature				Uncommon	6 (3rd)
+7th	+3		Mettle					Uncommon	7 (4th)
+8th	+3		Ability Score Improvement		Uncommon	8 (4th)
+9th	+4		Multiple Potions			Uncommon	9 (5th)
+10th	+4		Path Feature				Rare		10 (5th)
+11th	+4		Expert Chemist				Rare		11 (6th)
+12th	+4		Ability Score Improvement		Rare		12 (6th)
+13th	+5		Internal Clock				Very Rare	13 (7th)
+14th	+5		Path Feature				Very Rare	14 (7th)
+15th 	+5		–					Very Rare	15 (8th)
+16th	+5		Ability Score Improvement		Very Rare	16 (8th)
+17th	+6		–					Legendary	17 (9th)
+18th	+6		Internal Clock (no reaction)		Legendary 	18 (9th)
+19th	+6		Ability Score Improvement		Legendary 	19 (9th)
+20th	+6		Synthesized Potions			Legendary 	20 (9th)
+
+Alchemy. When starting with this class, you have proficiency with alchemist’s supplies and can use them with uncanny skill. You can create alchemical mixtures from any spell that belongs to the alchemist spell list, so long as you have the alchemical formula. This does not actually allow you to cast spells, only to know them enough to create potions. Each level in the alchemist class provides you with 1 caster level for the purposes of accessing alchemical formulae, as appropriate to the alchemist spell list. 
+
+Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus. As normal for alchemist spells, you cannot cast them, but can turn them into potions. Cantrips do not require a formula book, and are always memorized. 
+
+Conjuring and Binding 
+An alchemist can conjure and bind aberrations, constructs, elementals, oozes, plants, and undead, as well homunculi creatures (creatures with the homunculus template). 
+This is usually done by crafting miniature versions and preparing them in potions or globes of alchemical mixtures. 
+
+Preparing and Casting Spells
+Each alchemist level provides you with one caster level in the alchemist class (minimum 1). You follow the normal progression to unlock spell levels (see the table under the Mana section). You may not prepare spells, but can brew them into potions, so long as you have your formulae book or have memorized the formula. 
+When you level up, you can exchange a spell known with another you qualify for. You cannot otherwise change your alchemist spells other than by leveling up and exchanging them, or by training under another alchemist, fiend, celestial, or undead creature (see tutorship under magic).
+
+Spellcasting Ability
+Intelligence is your spellcasting ability for your alchemist spells and abilities, since your powers draw upon your scientific prowess. You use your Intelligence modifier whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an alchemist effect you create and when making an attack roll with one. 
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+Spellbook – Formula Book
+At 1st level, your formula book contains four 1st-level alchemist spells of your choice. When you level up, you gain 2 additional alchemist spells of your choice. You may also acquire new spells by research, tutelage, or by deriving formulae from the spellbooks and scrolls of spellcasters who have spell versions of the formulae on your spell list. 
+Your formula book is effectively your spellbook, and you may add spells by studying with it and replicating experiments found in other formula books. 
+
+Quick Potions 
+Also at 1st level, you create quick potions with less preparation than normal. This costs an action (or the casting time of the spell, whichever takes longer) to create the quick potion. The potion’s spell level is limited to the maximum alchemist spell level you can access. You can use this feature a number of times equal to your proficiency bonus. You regain expended uses after you complete a short or long rest, so long as you have alchemist’s supplies. You can have one active potion through this feature at any given time, unless the potion is of a cantrip. 
+If you choose to create a quick potion out of a cantrip, this does not consume a use of this ability, and you can maintain two quick potions of cantrips. Furthermore, you can roll twice on the miscibility table and choose the result when mixing two quick potions of cantrips. For this purpose, you cannot a
+Quick potions do not cost money or mana, except if the spell has material components (which must be provided as normal), or other resource or conditions (which must be supplied by you). A quick potion is best used by you, and has a 50% failure chance when used by another character (including other alchemists). You can turn a quick potion into a regular potion (though this takes the normal crafting time and costs associated). Quick potions are instantly recognizable upon sight by anyone who has seen a regular potion. 
+
+Weird Science
+Also at 1st level, you may choose a weird science or avenue of natural talent to focus your alchemical powers upon. Choose one of the following choices. 
+•	Homunculus. You gain a companion that is a humanoid, undead, or construct with the homunculus template. See Bound Companions for more details. The companion can use your potions as if it was you. Its CR is equal to 1/4th your alchemist level, and it retains a shadow of free will, but can be commanded to go against its nature (or what it perceives as its nature) with a DC 15 Charisma check. Bonding with a homunculus requires spending one hour communicating with the creature by means it can understand, and spending the next seven hours in bonding activities (fixing/healing/conversing/etc.).
+•	Explosive Potions. You can quick create potions of the explosion spell. This feature can be used the same number of times as the Quick Potions feature (each ability has their own number of uses). Unlike with normal quick potions, these potions can be created and thrown with a single attack action. You also memorize the explosion spell, and can add it to your formula book. 
+•	Quick Reactions. You also gain the Flash Bomber rogue talent, but it may only be used with alchemical items. 
+
+Efficient Alchemy
+Starting at 2nd level, your ability to whip up quick potions increases your efficiency in creating normal potions. You reduce the crafting cost for potions from one-half to one-quarter buying price. 
+Crafting potions are also one step of complexity faster. This does not also reduce the cost of spell material components. 
+
+Alchemy Path
+When you reach 3rd level, you walk a path that defines you as your path of alchemy. Up to this time you have been in a preparatory stage, committed to a path but not yet fully enveloped in it. Now you choose the Path of the Mutant for self-transmutation and improving your combat abilities, Path of the Transmutor for theoretical pursuits and advanced alchemical effects, or Path of the Apothecary to go beyond morality and mortality and dabble in death and life magics, all detailed at the end of the class description.
+Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level. Those features include path spells.
+
+Path Spells
+Each path has a list of associated spells. You gain access to these spells at the levels specified in the path description. Once you gain access to a path spell, you always have it known and memorized. Path spells do not need to be stored in the alchemical notebook.
+If you gain a path spell that doesn’t appear on the alchemist spell list, the spell is nonetheless an alchemist spell for you.
+
+Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+Mettle
+Starting at 7th level, your exposure and experimentations in alchemy left your body more resilient to certain effects, such as a rogue’s poison gas or a stinking cloud spell. When you are subjected to an effect that allows you to make a Stamina saving throw to take only half damage or a reduced effect, you instead take no damage or effect if you succeed on the saving throw, and only half damage (or the reduced effect) if you fail. 
+For example, a clay golem’s reduction to maximum hit points is negated on a successful saving throw, and you take half the effect if you fail. 
+
+Multiple Potions
+Starting at 9th level, you may maintain two quick potions at the same time. 
+
+Expert Chemist
+Starting at 11th level, whenever you deliver a poison, disease, or potion, you increase the DC, damage, or duration of the effect increases by 2 points or two rounds (if possible). 
+
+Internal Clock
+Starting at 13th level, whenever you make a potion and consume it, you can choose to keep its effects latent until a condition you specify. When said condition comes to pass, the potion activates as if you just consumed it, and costs you a reaction. 
+You can have a number of potions stored this way equal to your proficiency bonus. If the potion has a casting time more than 1 action, it must remain latent for a minimum duration equal to the casting time first. These potions do not incur miscibility, even if consumed at the same time. 
+Starting at 18th level, activating a potion on your internal clock costs no reaction.
+
+Synthesized Potions
+Starting at 20th level, you can create synthesized potions. A synthesized potion has the benefit of one potion of a specific rarity, and includes the effect of another potion of a rarity two steps below. For example, the rare-quality Globe of Invulnerability potion can be synthesized with a common quality healing potion. This costs the normal cost of the potion plus half the cost of the secondary potion. 
+You can possess an indefinite number of synthesized potions, but create only one every 24 hours. 
+
+Alchemy Paths
+Path of the Apothecary
+You recognize no boundary of morality or faith in your pursuit of weird science. Reaching beyond the realms of experiment to dissect the supernatural, you employ necromancy, soul magic, and unusual diseases and poisons. Apothecaries usually dress as plague doctors or experimenters, dealing with death and strange occult things for reasons only they know. 
+
+Apothecary Path Spells
+Level	Spells
+3rd	Conjure undead (animate undead), curse of agony 
+5th	Rune array (vampiric), ray of enfeeblement 
+9th	Feign death, stinking cloud
+13th	Confusion, cripple
+17th	Contagion, flesh to stone
+
+Plague Zombies. Upon gaining this archetype at 3rd level, you learn to imbue any undead creature you create or control by your potions with any poison or disease of your choice. 
+You may imbue any corporeal undead with one dosage of a poison or disease per proficiency bonus, and allowing the creature to act as a carrier. It can then apply the poison, depending on the poison’s vector, as below:
+•	Inhaled poisons or diseases can be exhaled as an action, affecting creatures within 5 feet (plus 5 feet per size category above Medium).
+•	Contact poisons or diseases can be delivered with a successful melee weapon attack that inflicts the disease. The attacker cannot add their ability modifier to damage for this attack. 
+•	Ingested poisons or diseases can be projected onto edible food or drink as an action; affecting a well can affect up to three people per dose.
+•	Injury poisons or diseases can be delivered with a successful attack; one dose is delivered with each successful attack.
+
+Repair Flesh. Also starting at 3rd level, your alchemist spells and potions that heal the living on your spell list can heal undead and constructs (such as rejuvenation and heal). A given creature must be studied for at least one hour before you may adapt your alchemy to heal them, however. For instance, studying a forsaken for one hour allows you to heal all forsaken with the holy light spell if manifested as an alchemist spell (or potion).
+
+Necromantic Mastery. Starting at 6th level, you add all spells of the Necromancy school from the Mage spell list to the Alchemist spell list, and can make potions out of them.
+
+Biohazard. Starting at 10th level, you can secrete or develop poisons and diseases in your body. You may declare development of a disease or poison 24 hours before you can secrete it. After 24 hours have passed, you can conjure a number of doses of the chosen poison or disease equal to your proficiency bonus, with no maximum rarity higher than your maximum potion rarity, or DC higher than 10 + half your class level. This can be done once in a 24-hour circle.
+You cannot develop a disease or poison that would otherwise affect you in this way. Gaining acquired immunity to poisons or diseases also requires only one-quarter the normal time. 
+See the Poisoner’s Kit for the ability to gain immunities against diseases or poisons.
+
+Soul Science. Starting at 14th level, whenever you create or summon undead, homunculi, or constructs via alchemy (as with the conjure spell), you may grant the creature Blindsight against living and undead creatures, as well as constructs and devices that work off an electrical source. The Blindsight only works up to 60 feet, but the creature is not blind beyond that radius. 
+
+Path of the Mutant
+You push your body past the normal limit—mutation is no mere rage of chemical reaction; it is a secret science only you know. Mutants are often ostracized by society, which sees such unstable people to be dangerous and fickle in their moods.
+
+Mutant Path Spells
+Level	Spells
+3rd	Absorb elements, mage armor
+5th	Alter self, berserker rage
+9th	Fly, gaseous form
+13th	Cripple, stoneskin
+17th	Flesh to stone, true seeing
+
+Greater Mutate. Upon gaining this archetype at 3rd level, you treat any mutate spell you benefit from as if it were heightened one level for no cost, allowing certain mutations to become stronger. This also applies to any homunculus you have. You furthermore have the mutate spell memorized. You also gain proficiency in Strength saving throws.
+
+Mutate Potion. Also starting at 3rd level, you can spend a use of your quick potions ability to change any potion you have into the rejuvenation spell of the same spell level (up to the maximum spell level of the spell you can access). You also add the rejuvenation spell to your formula book, if you didn’t already have it. 
+
+Super Mutant. Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. This only applies when you benefit from the mutate spell. 
+Furthermore, you no longer gain exhaustion from the berserker rage spell, and you do not lose your action when the haste spell ends for you. 
+
+Battle Chemist. Starting on 10th level, you gain the Flash Bomber rogue talent. These uses stack with the Weird Science feature (if you already chose it). 
+Also, whenever you are in the area of effect of the explosion spell (regardless of origin), you can benefit from the berserker rage spell for 3 rounds. 
+
+Greater Internal Clock. Starting at 14th level, you treat your proficiency bonus as if 2 points higher for the purposes of how many potions you can have active under your Internal Clock ability. Also, your Internal Clock ability would activate, you may choose to withhold benefitting from it up to 1 minute. If you do not declare use of the ability (reaction if not in your turn, bonus action if it is) it fades at the end of the duration.
+
+Path of the Transmutor
+Whereas the apothecary dabbles with the line between life and death, and the mutant experiments on themselves, you handle alchemy as a science and a tool, and are considered a more ‘classical’ alchemist. Transmutors are appreciated in societies, often serving in courts or in magical circles to quantify the true nature of alchemy, sicknesses, and magic. In adventuring parties, they often focus on support.
+
+Transmutor Path Spells
+Level	Spells
+3rd	Fog cloud, holy light 
+5th	Create food and water, see invisibility
+9th	Haste, revivify
+13th	Polymorph, resilient sphere
+17th	Modify memory, telepathic bond
+
+Fortifying Chemistry. Upon gaining this archetype at 3rd level, you may enhance any potion you handle for at least 1 minute to grant the imbiber temporary hit points equal to your alchemist level. These hit points remain for 1 hour, and can stack, but cannot exceed double the target’s maximum hit points. 
+
+Medical Expert. Also starting at 3rd level, you gain proficiency with an Herbalism Kit and the Spirit (Medicine) skill, if you didn’t already have proficiency. Furthermore, whenever you expend a use of a Healer’s Kit as an action to treat a creature, the target can expend one hit dice. A creature can benefit from this ability once per short rest. 
+Whenever you expend a use of a Healer’s Kit, you can roll a DC 20 Intelligence check with Alchemist Supplies. If you succeed, you do not expend a use of the kit. 
+
+Secrets of Alchemy. Starting at 6th level, you learn and memorize how to create an Philosopher’s Stone and the transmute material spell. You can transmute a mineral once per short rest instead of once per long rest, and you further memorize the alchemical composition of two minerals (as recipes), allowing you to turn one mineral to another. Whenever you would gain an alchemical recipe from leveling up, you may choose a mineral recipe instead. 
+
+Augmentation. Upon reaching 10th level, you can augment a potion you hold by spending 1 minute or a use of your quick potions feature. An augmented potion remains augmented indefinitely, but you can only have up to one potion augmented at any given time. You can apply the following augmentations:
+•	Every dice your potion rolls is maximized. 
+•	Every dice your potion rolls is minimized (lowest result on the roll). 
+•	When the potion is used, roll a d100. On a result of 50 or higher, the potion gives its full effects with only a fraction of the actual content, allowing the potion to be reused. 
+•	You alter your potion to activate in response to a trigger you choose and that can affect the potion’s contents, such as time passed, being shaken a certain way, or being touched by an eligible target. This does not stack with the Internal Clock feature. 
+For instance, if you can create an exorcism potion, you can coat a sword with it to activate in response to touching an eligible target of the spell, or to activate after 1 minute to counter a possible possession. 
+
+Greater Augmentation. Upon reaching 16th level, you can augment up to three potions at any given time. You can also apply the following additional augmentations:
+•	Your potion also has the effects of a dispel magic or mana burn spell, with the spell level two spell levels lower than the potion’s original spell level (minimum 1). If the potion has no replicated spell level, the effective level is instead equal to the lowest spell level the spell can be cast. 
+•	Your potion also has the benefits of the protection from poison, protection from energy, or remove curse spells. 
+•	Your potion allows the target to add their proficiency bonus to one saving throw of their choice. They cannot apply this to a saving throw in which they are already proficient. This remains up to 1 hour. 
+•	Your potion has a 25% chance to enhance the imbiber with increased lifeforce. If the target is reduced to 0 hit points or dies within 4 hours of imbibing the potion, they are affected with the revivify spell. The potion must replicate a spell level of 6 or higher to gain this augmentation. 

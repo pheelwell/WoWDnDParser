@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+    <spell>
+        <name>Abi-Dalzim's Horrid Wilting (EE)</name>
+        <level>8</level>
+        <school>N</school>
+        <time>1 action</time>
+        <range>150 feet</range>
+        <components>V, S, M (a bit of sponge)</components>
+        <duration>Channeling, up to 1 minute</duration>
+        <classes>Sorcerer, Wizard</classes>
+        <text>You whisper the magic words, and a cold light emanates from your hands. A freezing cloud materializes 40 feet above the target, raining down shards of ice and heavy snow, dealing 4d6 points of damage in the area for every round of channeling. The damage is half cold, and half slashing damage, with an Agility saving throw to half damage. Creatures that fail their saving throw for half damage also have their speed reduced by 10 feet. 
+The heavy snow and hail obscures all sight, including darkvision, beyond 5 feet. The cloud can deal damage to creatures flying under it as well, and imposes the same obscuration to sight to creatures below the cloud. As a bonus action, you can move the cloud that calls down the blizzard up to 30 feet.
+</text>
+        <text />
+        <text>This spell can be found in the Elemental Evil Player's Companion</text>
+        <roll>10d8</roll>
+    </spell>
+</compendium>

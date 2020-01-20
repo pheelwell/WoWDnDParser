@@ -1,0 +1,52 @@
+Alchemist (ALC)
+-Path of the Apothecary
+-Path of the Mutant
+-Path of the Transmutor
+Death Knight (DKN)
+-Path of Blood
+-Path of Frost
+-Unholy Path
+Druid (DRD)
+-Balance
+-Feral
+-Restoration
+Hunter (HTR)
+-Beast Master
+-Marksman
+-Survival
+Mage (MGE)
+-Arcane
+-Fire
+-Frost
+Monk (MNK)
+-Brewmaster
+-Mistweaver
+-Windwalker
+Paladin (PLD)
+-Oath of Holiness
+-Oath of Protection
+-Oath of Retribution
+Priest (PRS)
+-Death Priesthood
+-Discipline Priesthood
+-Holy Light Priesthood
+Rogue (RGE)
+-Assassination
+-Outlaw
+-Subtlety
+Shaman (SHM)
+-Elemental
+-Enhancement
+-Restoration
+Tinker (TNK)
+-Bomber
+-Gunner
+-Gadgeteer
+Warlock (WRK)
+-Affliction
+-Demonology
+-Destruction
+Warrior (WAR)
+-Arms
+-Fury
+-Protection

@@ -1,0 +1,541 @@
+Chapter 2: Races 
+The races of Warcraft are diverse and rich. Each race has a role in the world, and their deeds resonate through the ages. Members of each race view each other with assumptions formed by past conflicts and alliances. Warcraft’s history is troubled and epic, and every aspect influences the races, their beliefs and their roles.
+The races described here are not the only races in the Warcraft world, but they are the most dominant, influential, and prone to adventuring. Other races can be found in the Monster Guide. 
+
+Racial Mount. Each race in Warcraft has affinity to one creature that serves as a primary mount, either to accommodate their skeletal and muscular structure, or for cultural reasons. Refer to the below table for details.
+
+ 
+Race			Racial mount
+Draenei			-
+•	Unbroken		Elekk
+•	Broken		-
+Dwarves		-
+•	Bronzebeard	Rams
+•	Wildhammer	Gryphons
+•	Dark Iron		Core hounds
+Elves			-
+•	High		Horses
+•	Blood		Hawkstrider
+•	Night		Saber cats
+•	Nightborne		Saber cats
+•	Void		Hawkstrider
+
+Race			Racial mount
+Humans		Horses
+Forsaken		Skeletal horses (Horse with skeletal template)
+Gnomes		Mechanostriders (Tallstrider with mechanized template)
+Goblins			Turbo-Trike (Vehicle)
+Orcs			Wolves
+Pandaren 		Giant turtles
+Tauren			Kodo beasts
+Trolls			Raptors
+Worgen			Horses (mountain)
+ 
+
+Draenei
+The draenei are a powerfully-build alien race that originates from Argus. They are powerfully magically-attuned, and have the potential for exceptional good or evil. Draenei who succumb to fel magic form the ranks of the Eredar, the greatest generals of the Burning Legion, while draenei who serve the Holy Light are immortal crusaders for justice across the cosmos. 
+
+Draenei Traits
+Ability Score Increase. Your Spirit or Intelligence increases by 1. 
+Age. A typical draenei claims adulthood around 100 years old, and can live to about ten thousand years old. 
+Affiliation. Each sub-race is inclined to its own affiliations.
+Size. Draenei stand between 7 and 8 feet tall and average about 300 pounds. Your size is Medium. As befitting their Eredar heritage, Draenei have hooved feet, tendrils that grow from the neck and short tails, and their skin color is affected by the magic they naturally absorb (with fel magic reddening them, holy magic rendering their skins blue to violet, and void magic darkening them to brown). 
+Males’ skulls are rigid (giving the appearance of a bone plate under their skin), while females grow foot-long, graceful curved horns. 
+Males range anywhere from seven feet tall to eight feet tall and weigh on average around 300 or 400 pounds. Females stand at six to seven feet tall and only weigh around 170 or 250 pounds when fully grown. 
+Broken draenei look distinctly different from normal Draenei, having flat, noseless faces and having thick, three-fingered hands, and lose their bone-like plates. 
+Speed. Your base walking speed is 30 ft.
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Draenei Combat Training. You have proficiency with the longsword, greathammer, glaive, and heavy crossbow.
+Fel Resistance. You have resistance to fel damage.
+Heroic Presence. You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma or Spirit modifier. A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest. If you spend 
+Inspiration when using Heroic Presence, creatures can benefit multiple times from the temporary hit points (so long as there is Inspiration to spend), but it does not stack.
+Alternatively, you may declare use of this ability upon landing a critical hit. The range remains the same. 
+Languages. You can speak, read, and write Common and Eredun. The Eredun Draenei speak is an altered dialect that is less corrupt, and thus does not impose penalties when speaking, but is perfectly understandable by fiends. 
+
+Subrace. Ancient events divide the draenei into two sub-races: unbroken and broken, Choose one of these subraces. 
+
+Male Names. Amka, Doruno, Kozza, Sarhash, Shunn, Thylon, Voluth 
+Female Names. Corevva, Daalny, Demetra, Fetwa, Lan’era, Me’era, Tanmatra
+Family Names. Draenei do not have family names, but take a title according to their deeds.
+
+Unbroken (Draenei)
+“The Legion’s end draws near.”
+As one of the enlightened cousins of the Eredar, the Draenei arrived in Azeroth after the reopening of the Dark Portal. Living out the last centuries in exile and escape from the Burning Legion, the Draenei are steadfast champions of the Light, and will do anything in their power to prevent another world from falling to the Flame. 
+
+Ability Score Increase. Your Strength increases by 2. 
+Affiliation. Alliance. Unbroken draenei have found that they have strong bonds with humanity and dwarvenkind due to their shared worship of the Light, and kinship with the now-mortal night elves. 
+
+Gift of the Naaru. You can use your bonus action to channel holy energy, casting the renewing light spell as if cast as a 1st level spell. This can be used once until a short or long rest. 
+At 6th level, you gain another use of the ability or choose to heighten the spell’s effective level to a 3rd level spell. You can make the same choice at 11th and 16th levels (4th or 5th level, or additional uses). While a creature benefits from this ability, they have a glowing blue mark above their forehead (shedding light equal to dancing lights).
+Gemcutting. You are proficient with artisan’s tools (jewelcrafting kit). 
+
+Broken (Krokul)
+“You will learn our ways…”
+The Broken, also known as Krokul in Draenei, are a mutated and devolved subrace of draenei who lived in Outland. They, like most of the orcs, fell prey to the demons' sinister influence and were changed by the corruption. Though they lost some of their former powers, the Broken still present a clear danger to all races through Outland. The largest known faction of Broken in Outland, the Ashtongue Deathsworn, is currently led by Akama. They are supposedly allied with Illidan Stormrage.
+
+Ability Score Increase. Your Agility increases by 2. 
+Affiliation. Independent. Despite the (mostly) accidental regression into broken, many unbroken draenei not only distrust them but despise them. Although understandable of those broken who remain corrupted or in service to the Legion, one would think that the unbroken would be willing to welcome any of their people that survived the orcs' genocide. Most broken are independent as a result, although the Prophet Velen, the leader of the unbroken, does extend a hand to broken to help them find their way back. 
+
+Adapter. When acting in a surprise round, you may always act in it (even if you failed your Perception check to notice it). You also have advantage versus weather effects. 
+Stalker. You have proficiency with the Perception and Stealth skills. 
+
+Dwarf
+Dwarves are short and stout creatures mostly inhabiting Khaz Modan in the Eastern Kingdoms. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed.
+
+Dwarven Traits
+Ability Score Increase. Your Stamina score increases by 2.
+Age. Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 40. On average, they live to be 450 years old. 
+Affiliation. Each sub-race is inclined to its own affiliations ever since the great War of the Three Hammers.
+Size. Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+Male dwarves tend to have long hair, and beards or facial hair often tied in ornate braids. Female dwarves also have sturdy muscular frames, but they are buxom and lack facial hair, despite the claims of some of the less educated sages of other races. 
+Speed. Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+Natural Armor. Your skin is as hardened leather in toughness. When you aren't wearing armor, your AC is 12 + your Agility modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. If you benefit from a feature that would alter your AC (such as the mage armor spell or the monk’s unarmored defense feature), add +2 to your baseline AC.
+Stoneform. You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Stamina modifier to the number rolled, and reduce the damage by that total. If the damage exceeds any ongoing bleed damage you take, you end the effect as well. After you use this trait, you can't use it again until you finish a short or long rest.
+Tool Proficiency. You gain proficiency with one artisan’s tool of your choice: smith’s tools, brewer’s supplies, mason’s tools, or mining tools. 
+Dwarven Combat Training. You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+Languages. You can speak, read, and write Common and Dwarven. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+
+Subrace. Three main subraces of dwarves populate the worlds of Azeroth: Hill dwarves (Wildhammer Clan), Mountain dwarves (Bronzebeard Clan), and Dark dwarves (Dark Iron Clan). Choose one of these subraces.
+
+Hill Dwarf (Wildhammer)
+“To the skies!”
+As a hill dwarf, you probably hail from the Wildhammer clan and its allies, and live in the Aerie Peak. Wildhammer dwarves are similar in appearance to their Ironforge kin, though many shave their heads and they are slightly taller and leaner. Exposure to sun and high winds darkens and toughens their skin. Wildhammers string beads and feathers into their hair and beards as good luck charms, and paint tattoos on their bodies in homage to the totems, ideas and creatures they revere.
+Affiliation. Alliance or independent. The Wildhammer clan is not a member of the Alliance, but Wildhammer dwarves are allies of the Alliance and would certainly help it in a war (and have done so in the past). 
+They are distant with humans and Ironforge dwarves, but have formed a kinship with high elves. Wildhammers and high elves shared much in common in the past, including a love of nature and hatred of evil. Many high elves have grown introverted and brooding of late, which concerns the Wildhammers. The dwarves are appalled at the defection of the blood elves, an event which has caused them to see their high elf allies with new eyes. They also get along well with night elves, as the two races share much in common.
+
+Ability Score Increase. Your Spirit score increases by 1.
+Affiliation. Alliance or independent. Wildhammer dwarves have strong kinship with the wilds, leading most of them to be independent. If they would join a faction, however, most will join the Alliance due to historic alliances in past wars. 
+Bravery. You have advantage to all saves against fear. 
+Natural Handler. You have proficiency with Animal Handling. If handling beasts that naturally live in mountains such as gryphons or mountain lions, double your proficiency bonus. 
+Mountain Born. You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold weather in the wilderness or while exploring.
+
+Male Names. Kazdin, Hagrim, Dondar, Soldrin. 
+Female Names. Kella, Lorim, Ar-ya, Senica.
+Family Names. Beastclaw, Greatbeard, Thundertamer, Windseer.
+
+Mountain Dwarf (Bronzebeard)
+“For Khaz Modan!”
+As a mountain dwarf, you probably hail from the Bronzebeard clan and its allies, and live in Khaz Modan. Ironforge dwarves are stout and powerful, with short muscular bodies, and prefer tying their hair (male or female) in ornate braids. 
+Ability Score Increase. Your Strength score increases by 1.
+Affiliation. Alliance. While the dwarves of Ironforge appreciate the fighting skill of the Horde, it is with grim eyes that they look upon the orcs and their allies, the trolls and the Forsaken. Although the dwarves have held dealings of commerce and diplomacy with the high elves, they keep the people of Quel’Thalas at an arm’s distance. While the night elves may share the same allegiances, the dwarves look upon them with suspicion and some trepidation. Humans, however, are the staunch and constant allies of the dwarven people and find welcome, favor and kindness when in dwarven lands.
+Dwarven Combat Training. You have proficiency with firearms and explosives of all types, even if you do not have proficiency in engineering, and gain proficiency with light armor. 
+Resilience. You have advantage against poisons and resistance to poison damage. 
+Stonecunning. Whenever you make an Intelligence (History) check or Mining checks related to stonework and minerals, you are considered both proficient and as if having Expertise in either History or Mining (choose one).
+
+Male Names. Barab, Aradun, Thorin, Magni, Garrim, Wendel, Thurimar.
+Female Names. Chise, Helge, Ferya, Furga, Krona, Imli.
+Family Names. Thunderforge, Bronzebeard, Hammergrim, Thornsteel, Chunderstout.
+
+Darklands Dwarf (Dark Iron)
+“You shall serve.”
+As a darklands dwarf, you probably hail from the Dark Iron clans, lead by the Sorcerer-thane Thaurissan. Reviled as betrayers of their fellow dwarves, and living in the mountain-halls of Blackrock Mountain, Dark Iron dwarves are slaves to the great elemental Firelord Ragnaros, and serve him in the latent volcanic mountain. 
+Dark Irons seem identical to Ironforge dwarves, except that their skin tones are ashen and gray, and their eyes are golden-red. Dark Irons who adventure can often reach into the power in their bloodline and spontaneously conjure flames. 
+Hoarse of voice and prone to undertone muttering, Dark Irons do not inspire trust easily. 
+Ability Score Increase. Your Intelligence score increases by 1.
+Affiliation. Alliance or Independent. Hatred comes to Dark Iron dwarves against all races, and in their service to Ragnaros, they see only rivals, thralls, and enemies. Some dark irons have found kinship with their cousins the Wildhammers and the Bronzebeards, and chose to join the Alliance. 
+Dwarven Combat Training. You have proficiency with firearms and explosives of all types, even if you do not have proficiency in engineering, and gain proficiency in light armor.
+Fire-Lord’s Favor. You have resistance to fire damage. 
+Burning Heart. You know the produce flame cantrip (caster level equal to your character level). Intelligence is your spellcasting ability for it.
+
+Male Names. Beld, Franclorn, Lokhtos, Grall.
+Female Names. Aster, Channis, Mogran, Wellia.
+Family Names. Angerforge, Darkbargainer, Firesmite, Forgewright.
+
+Elf
+An elf is a member of one of the longest lived species on Azeroth known for keen perception, grace, and great spellwork. Elves were once believed to be the first race to awaken on Azeroth.
+
+Elven Traits
+Ability Score Increase. Your Agility score increases by 2.
+Age. Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. 
+A high elf typically claims adulthood around the age of 60 and can live to be 750 years old. 
+A night elf claim adulthood and live up to five times said age (adulthood at 300 and live up to 3,750 years old). Until the World Tree was destroyed, the Night Elves were immune to aging effects. 
+Affiliation. Each sub-race is inclined to its own affiliations ever since the Great War of the Ancients.
+Size. A high elf (and hence a blood and void elf) is usually a little over 6 feet in height and weighs between 100 to 175 pounds, depending on gender. 
+Night elves (and hence Nightborne) are imposing in stature, males being on average 7 feet tall. Male Kaldorei are very muscular, with broad chests and shoulders, indicative of the strength that lies within both their minds and bodies. Female night elves are lithe and curvaceous, yet still muscular and strong. 
+Speed. Your base walking speed is 30 feet. 
+Darkvision. Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Mystic Senses. Whenever you make any check related to the origin of magical items, lore, or spells, you are treated as if you are proficient in the Arcana skill, and add double your proficiency to the check, instead of your normal proficiency bonus.
+Keen Senses. You are proficient with the Perception skill. 
+Elven Combat Training. You have proficiency with the longsword, longbow, rapier, and shortbow.
+Languages. You can speak, read, and write Common and Elven (any dialect, see Chapter 4). Elven is fluid, with subtle intonations and intricate grammar, even with strange dialects such as Nazja. Elven literature is rich and varied, and their songs and poems are famous among other races. 
+
+Subrace. Ancient divides and use of mana siphoning (or mana vampirism) among the elven people resulted in several main sub-races: high elves (and the blood and void elves), and night elves (and the Nightborne), Choose one of these subraces. 
+
+High Elf (Quel’dorei)
+“For Quel’Thalas!”
+As a high elf, you hail from Silvermoon in Quel’Thalas or Dalaran. High elves stand slightly taller than humans do. 
+The elves are slim, with sharp symmetrical features, often an exaggeration of perfect beauty. The high elves are uniformly fair in complexion, with white to flaxen colored hair. Their eyes are incredibly intense in color, seeming to glow with an inner light. While many high elves have blue or green eyes, violet and red are not unheard of.
+Ability Score Increase. Your Intelligence score increases by 1.
+Affiliation. Alliance or independent. Most of the high elves have placed themselves under a self-imposed exile, ashamed of the damage that they have wrought upon the world of Lordaeron with their abuse of arcane magic. While humans still accept the high elves because of the aid that both races provided each other during the most recent attacks of the Burning Legion, many of the other races will only deal with the high elves if absolutely necessary. This is especially true after the acts of Kael’thas Sunstrider. 
+The night elves in particular do not care for the company of high elves and in some cases can be openly hostile toward their sun-blessed brethren. The passing of time may heal these wounds, but the use of arcane magic will always draw a rift between these two breeds of elf.
+
+High Magic. You know the prestidigitation cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a spell 1st level spell. When you reach 5th level, you can also cast the mute spell as a 2nd level spell. 
+Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after using them for one hour), your eyes glow a pale blue. 
+If you can already cast such spells (and have a sufficiently high caster level), they are always prepared for free. 
+Arcane Legacy. The high elves are uniquely attuned to magic. You can choose one of the below abilities. 
+•	Your spellcasting ability score is treated as if it is 2 points higher for the purposes of spell DCs, spell attack rolls, and your mana pool.
+•	You add an additional cantrip to your High Magic ability, chosen from the mage spell list. 
+•	You gain the suffused arrows hunter talent. You may only take this if your first level is a hunter. 
+Extra Language. You can speak, read, and write one extra language of your choice.
+
+Male Names. Mariel, Athaniar, Anandor, Tharama, Viridiel, Malanior.
+Female Names. Anarial, Freja, Driana, Coria, Alanassori, Azshara.
+Family Names. Boughstrider, Dawnblade, Lightbringer, Morningray, Suntreader.
+
+Blood Elf (Sin’dorei)
+“Power! My people are addicted to it... a dependence made manifest after the Sunwell was destroyed.”
+-Kael’Thas Sunstrider
+Following the Third War, 90% of the High Elven population was slain during the Siege of Silvermoon and the Razing of Quel’Thalas. Prince Kael’Thas Sunstrider renamed his people the Blood Elves (Sin’dorei) following this terrible event. 
+With their homeland destroyed, their forests burned and corrupted, and their beloved sacred Sunwell sullied, the Blood Elves underwent mana withdrawal. 
+Blood Elves are identical to High Elves in racial bonuses and names. However, their culture is more warped due to their insatiable thirst for vengeance: most have abandoned worship of the Light, and their allegiances have also changed, and most suffer psychologically from extensive use of mana siphoning, due to the Sunwell’s corruption and subsequent destruction. 
+A DM should consider applying the mana withdrawal optional rule with Blood Elves. 
+
+Affiliation. Horde or independent. Most of the blood elves have joined the New Horde, invited to do so by the Banshee Queen Sylvanas Windrunner. 
+Blood Magic. This acts as High Magic. While you use abilities granted by this ability, your eyes glow a pale fel green instead of High Elves’ blue. Instead of the prestidigitation cantrip, you may choose the thaumaturgy cantrip instead, and may cast the mana burn spell instead of mute. 
+
+Night Elf (Kaldorei) 
+"The horn has sounded, and I have come as promised. I smell the stench of decay and corruption in our land. That angers me greatly."
+-Malfurion Stormrage
+
+As a night elf, you hail from Darnassus in Kalimdor. The race’s prominent eyebrows, long pointed ears and natural aspects imply a feral grace. Skin tones range from pale white to blue or even ruddy red, and their hair ranges in color from bright white to woodland green to lustrous black.
+Ability Score Increase. Your Spirit score increases by 1.
+Affiliation. Alliance or independent. The night elves are members of the Alliance, but they are not the most trusted or highly regarded members of this group of races. 
+Although honorable and just, the night elves’ natural distrust has tainted their relations somewhat. Combined with their mystical appearances and mysterious natures, interactions with other races become uncomfortable at times. There is a strong streak of isolationism in the Kaldorei, for they are uncomfortable leaving the verdant mists of Teldrassil.
+
+Nature Resistance. You have advantage on saving throws against poisons, and have resistance against lightning and poison damage. 
+Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+Shadowmeld. When you are in dim or dark light, you gain advantage on Agility (Stealth) checks. 
+
+Male Names. Ilthilior, Mellitharn, Khardona, Andissiel, Mardant, Tanavar.
+Female Names. Keina, Deliantha, Meridia, Freja, Alannaria, Nevarial.
+Family Names. Moonblade, Glaivestorm, Proudstrider, Oakwalker, Nightwing, Staghorn.
+
+Nightborne (Shal'dorei) 
+“My people face a similar dilemma. I peered into all possible futures in search for an answer... and found only one.”
+- Elisande, Grand Magistrix of the Nightborne
+
+As a Nightborne, you hail from the ancient city of Suramar, and have spent your life sheltered by the power of the Nightwell (a simulacra of the Well of Eternity), and the dome of arcane power weaved by Elisande, the Grand Magistrix. The nightborne look similar to night elves, but their overall appearance is darker. Their skin does not have the brighter skin tones of purple and pink that night elves do, instead having more pale skin with dark blue-purpleish tones. A shal'dorei's hair is also far less colorful than the kal'dorei's, having only white, gray, black, or very pale-blue hair colors. Glowing tattoos seem common among nightborne, though whether these are cosmetic or a result of the Nightwell's energy is unknown. Their eyes glow light-blue.
+
+Ability Score Increase. Your Intelligence score increases by 1.
+Affiliation. Horde or Independent. When the dome began unweaving after the Battle of Nighthold during the third Burning Legion invasion of Azeroth, the leaders of the Nightborne elected to let it fade, subjecting the Nightborne to the same withdrawal the High Elves face, rather than face the alternative. Electing to join the Horde, the Nightborne found new and steadfast allies in the Blood Elves when they re-appeared in the world of Azeroth. Nightborne that are more independent-minded also roam the world, searching for ways to satiate their thirst for magic before it becomes an obsession like the Blood Elves.
+
+Arcane Affinity. You deal one additional point of arcane damage for each damage dice with your arcane spells. This applies once per spell.
+Blessing of the Nightwell. You have resistance to arcane damage.
+Nightfallen Magic. You know the mage hand cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the arcane explosion spell as a 2nd level spell. Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after using them for one hour), your eyes glow a light blue. 
+If you can already cast such spells (and have a sufficiently high caster level), they are always prepared for free. 
+Extra Language. You can speak, read, and write one extra language of your choice.
+
+Names. Ilthilior, Mellitharn, Lurunic, Elleshel, Mardant, Faldres.
+Female Names. Kandui, Deliantha, Allainn, Freja, Alannaria, Macianne.
+Family Names. Margaux, Babineaux, Gillette, Clarent, Roux, Prideux.
+
+Void Elves (Ren'dorei) 
+"You have known the Shadow as nothing but horrors. The Shadow sees the Light in the same way. Neither viewpoint is true. Neither is wrong."
+- Locus-Walker
+
+As a void elf, you may be drawn from a small and elite cadre of high elven warriors, mages, and warlocks, or have come to learn the ways of the void by drawing upon void mana.
+Void elves have extremely pale skin, blue eyes, and hair with varying shades of purple and blue - sometimes with tentacle-shaped dreadlocks. On occasion in combat they fully embrace the Void, shrouding their entire bodies in purple shadow magic (such as when using one of the racial traits). Alleria Windrunner is the only elf shown to be able to keep the transformation indefinitely.
+
+Ability Score Increase. Your Charisma or Intelligence score increases by 1.
+Affiliation. Alliance or Independent
+
+Chill of Night. You have resistance to shadow damage.
+Preternatural Calm. You have advantage to all Stamina checks to concentrate on spells. 
+Spatial Rift. You can create a spatial rift as a bonus action at any point you can both see and normally reach (by walking, climbing, or swimming) to within 30 feet (or your normal walk speed, whichever is higher). After the rift is set, you can teleport to as a bonus action it as if using the blink step spell. This is useable once per long rest, and acts as the spell for all other purposes. The rift remains up to 1 minute, and can be used so long as you are within 100 feet of it (so long as you placed it within the normal range beforehand). 
+Void Magic. You know the chill touch cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the blink step spell as a 2nd level spell. Charisma or Intelligence (your choice) is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after using them for one hour), your eyes glow a pale white. 
+If you can already cast such spells (and have a sufficiently high caster level), they are always prepared for free. 
+
+Male and Female Names. Void elves follow the naming traditions of the high elven culture from which they were selected from
+Family Names. Blackfeather, Duskblade, Shadowwalker, Swiftshadow, Velvetkind.
+
+Forsaken
+“We are the Forsaken. We will slaughter anyone who stands in our way”
+-Lady Sylvanas Windrunner”
+
+Undead humans and elves freed from the Lich King’s control during the second stage of the Third War, the Forsaken are a strange and dark force. Hailing from the twisted, skittering darkness of Undercity, the Forsaken are nominally allied with the Horde but serve only themselves. Their objectives are twofold: eliminate the Scourge, and establish a place for themselves on Azeroth.
+Four years ago, the high elven Ranger General Sylvanas Windrunner fell in combat against the Scourge. Prince Arthas raised her as a banshee and compelled her to follow his command. When the Lich King’s power waned in the incidents surrounding the Frozen Throne, Sylvanas harnessed her fury and tore herself free from his skeletal grasp. She freed many other undead as well, and recruited powerful allies from the Burning Legion and the surrounding ogre clans. Sylvanas dubbed her new force the Forsaken, and the undead established their capital in the labyrinthine crypts beneath Lordaeron’s capital city. Their sprawling, subterranean realm is called Undercity.
+As a forsaken undead, your alliance with the Horde started out as necessity and convenience, and your previous life bears witness to the many tragedies of Azeroth’s reality. Needing both time and help to fight against their former Scourge masters, the Forsaken have a reputation of utter ruthlessness, human experimentation, and moral ambiguity. 
+Although humans make the vast population of Forsaken, there is also a population of high elves (usually becoming dark rangers), and other races, which leaves a lingering bit of their abilities. 
+
+Forsaken traits
+Ability Score Increase. Two different ability scores increase by 1.
+Age. Forsaken are undead, and thus do not age, and only die of violence or poisons and diseases that can affect the undead.
+Affiliation. Horde, or independent. Though the Forsaken do not trust anyone and no one trusts them, they are members of the Horde and, for now, do their best to help their allies and placate their ambassadors. Forsaken have even less love for the Alliance, particularly because they clash constantly with the human organization called the Scarlet Crusade. Some have thrown their lot with the Burning Legion, believing that only it is potent enough to defeat the Lich King.
+Size. Forsaken vary based on their original form before death—those who were medium before death are medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. Accustomed to dark crypts and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Undead Nature. You don’t require air, food, drink, or sleep. You are also immune to nonmagical poisons and diseases, and have advantage to effects that cause the exhausted and poisoned conditions. 
+You also count as undead for the purposes of healing spells and effects that target undead. For this purpose, you cannot be healed by the holy light spell, but are healed with the death coil spell, and can be targeted by the death pact and protection from good and evil spells, although you are unaffected by charm person (but charm undead instead). 
+You may also declare your racial origin before you rose (human, elf, orc, etc.) and are counted as being that race much for all intents and purposes that specify race (such as gaining use of elf, human, or orc specific weapons and feats). 
+Will of the Forsaken. You have advantage against fear effects. 
+Cannibalize. You can consume the corpse of any natural creature. When you use this ability, you can spend hit dice to heal as if you completed a short rest. You can also mana siphon at the same time. Consuming a corpse takes 1 minute (instead of 1 hour for a short rest). You do not have the other benefits of rest, however (such as regaining ability uses). A natural creature may be fully cannibalized once before their corpse becomes unusable and without sufficient benefit for another cannibalism. 
+Knowledge from Beyond. The forsaken are uniquely acquainted with death. You can choose one of the below abilities. 
+•	Elven Blood (must have been an elf). You have lingering elven blood in your veins. You have proficiency with the Perception skill, and can gain one of the following racial traits, depending on your elven subrace. 
+o	Arcane Legacy (high elf or blood elf)
+o	Blessing of the Nightwell (Nightborne)
+o	Preternatural Calm (void elf)
+o	Shadowmeld (night elf)
+•	Human Blood (must have been a human). You have lingering human blood in your veins. You gain the Skillful racial trait, and a +1 bonus to a third ability score of your choice.
+•	Necrotic Touch. You can cast the plague rune spell. This can be used once until a short or long rest. At 6th level, you gain another use of the ability, or choose to heighten the spell’s level to a 3rd level spell. You can make the same choice at 11th and 16th levels (4th or 5th level, or additional uses). While you use this ability, your hand and eyes emit an eerie green glow.
+•	Natural Alchemist. You have proficiency with alchemist’s supplies and the alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise in the skill instead. 
+•	Orcish Blood (must have been an orc). You have lingering orcish blood in your veins. You can choose one warrior talent as per the Warrior Tradition racial trait and a gain a +1 bonus to your Strength score. 
+Languages. You can speak, read, and write Common, Gutterspeech, and one extra language of your choice, typically based upon the language you spoke before being turned into a Forsaken. 
+
+Male Names. Roderick, Magan, Danforth, Lansire. 
+Female Names. Yellen, Limmy, Sarias, Mierelle.
+Family Names. Dartfall, Blacksling, Ghoulhunter, Blastlich.
+
+Gnome
+“Up and away!”
+As one of the gnomish peoples of the Alliance, you are comfortable standing with your more physically and politically-apt allies to cover you as you go about your businesses. Proficient in the higher arts of engineering and arcana, gnomes are behind many developments in the intellectual and creative sides of the Alliance, creating spells, gadgets, and vehicles to propel their human, elven, and dwarven friends (as well as their new allies in the Alliance) to a better tomorrow. 
+
+Gnomish Traits
+Ability Score Increase. Your Intelligence score increases by 2, and your Stamina increases by 1.
+Age. Adulthood at 40, can live up to be 500. 
+Alignment. Alliance. Gnomes are great friends of the Ironforge dwarves and have fought and died alongside human soldiers. They are wary of the high elves, but so is everyone else, so they don’t feel too bad about that. They battled the Horde in the Second War and have a bit of a grudge against orcs, but gnomes are a kindly and forgiving lot and are willing to give the orcs a second chance. 
+Gnomes and goblins have always been rivals — though whether this rivalry is a friendly or brutal one depends on the individuals involved. Gnomes have not been on Kalimdor long enough to form proper opinions about its denizens. Tauren and night elves both seem rather rustic for gnome sensibilities — but they can make friends with anyone.
+Size. Gnomes range from between 3 to 4 feet tall and average around 40 pounds. Your size is Small.
+Speed. Your base walking speed is 25 feet. 
+Darkvision. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Artificer’s Lore. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you have expertise instead of just proficiency.
+Escape Artist. You have advantage on all saving throws to escape grapples, bonds, or other movement-restricting abilities or effects that hamper your freedom of movement. 
+Gnome Cunning. You have advantage on all Intelligence, Spirit, and Charisma saving throws against magic. 
+Natural Tinker. You have proficiency with engineer’s tools, but it is treated as if your proficiency bonus is +1. If you later gain proficiency in engineer’s tools by another way, you gain expertise in the skill instead. 
+Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+Extra Language. You can speak, read, and write one extra language of your choice. 
+Languages. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarven script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+
+Male Names. Kiggle, Grobnick, Kazbo, Hagin, Snoonose.
+Female Names. Beggra, Nefti, Sorassa, Gamash.
+Family Names. Spinpistol, Airslicer, Bombtosser, Greatgear, Mekkatorque.
+
+Goblin
+“Time is money, friend!”
+Goblins value technology as a useful aspect of commerce. Some say that their advantage — and their curse — is to be the primary users of technology in a world governed by magic. While dwarves and gnomes share focused aspects of this gift, goblin technology is more far-reaching and sinister and makes a larger impact on the natural world, and mixes with alchemy in a gloriously unstable blend. 
+They employ vast teams of engineers and alchemists who expand on current technology and produce gadgets and potions to suit a wide array of applications. They constantly build and repair machines and work on new formulae. Unfortunately, goblins are both passionately genius yet suffer from undisciplined minds. Their lack of focus means that many creations end up half finished as something else catches their attention. 
+Goblins hired themselves out to the Horde in the Second War, but now they belong only to themselves and whoever pays the most. Constantly building and inventing requires massive resources, both for creating the machines themselves and maintaining those that actually work. 
+Cannibalizing old machines only partially sustains this fervent activity of creation, so goblins rely on trade with as many races and cultures as possible. They are the quintessential merchants, peddling all manner of exotic goods for the highest possible prices. 
+As one of the goblin-folk, you have a reputation for money-grabbing, dishonest work, and unreliability, yet being loyal to money means you always have customers (and a place) in a war-torn world. 
+
+Goblin Traits
+Ability Score Increase. Your Intelligence score increases by 2, and your Charisma increases by 1.
+Age. Goblins typically reach adulthood around 20 years old, and live to be 100 years old. 
+Affiliation. Independent or Horde. Goblin cartels serve as political bodies, and so far, the only cartel that chose to join the Horde was the Bilgewater cartel. 
+Size. Goblins range from between 3 to 4 feet tall and average around 40 pounds. Your size is Small.
+Speed. Your base walking speed is 25 feet. 
+Darkvision. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Best Deals Anywhere. Anything you purchase costs 10% less, and anything you sell grants you 10% more of its value. You gain proficiency with the Charisma (Persuasion) skill. 
+Inured to Explosions. You have resistance to thunder damage. 
+Living Better. You can gain one of the below abilities.
+•	You gain proficiency with any two skills of your choice. 
+•	You have proficiency with engineer’s tools, but it is treated as if your proficiency bonus is +1. If you later gain proficiency in engineer’s tools by another way, you gain expertise in the skill instead. 
+•	You have proficiency with alchemist’s supplies and the alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise in the skill instead. 
+Trader’s Lore. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+Extra Language. You can speak, read, and write three extra languages of your choice. 
+Languages. You can speak, read, and write Common and Goblin. The Goblin language sounds as if it were a Troll dialect, but borrows from dozens of other languages. 
+
+Male Names. Zautso, Beedle, Chizbolt, Nuzak, Jastor, Jareth.
+Female Names. Lystis, Mefeero, Sazai, Rossa.
+Family Names. Steamgear, Boltnose, Manclamp, Leafgrinder, Gringott, Gallywix
+
+Human
+“Go with honor, friend.”
+Humans are among the youngest races on Azeroth, but they make up for it by being the most populous. With life spans generally shorter than the other races, humans strive all the harder to achieve great heights in empire building, exploration and magical study. This aggressive and inquisitive nature leads the human nations to become active and influential in the world.
+As a human, your people value virtue, honor and courage, though like all races they also pursue power and wealth. Humans have spent generations battling dark forces and have lost some of their greatest kingdoms to them. This loss embitters humans, and they have a warlike view of diplomacy — swing first, ask questions later. Aided by belief in the Holy Light, humans have fought the hardest and endured the most during the wars against the Horde and the Burning Legion. You may hail from the ruins of once-glorious Lordaeron, the island-nation of Kul Tiras, the mountains of Alterac, the highlands of Stromgarde, or the rebuilt capital of Stormwind, amongst other nations. 
+Despite all their tragedies, humans remain hardy and brave — thoroughly committed to building strong societies, reinforcing their kingdoms and reclaiming their nations. Years of war have tempered human resolve, and they are more hardened and determined than ever before.
+
+Human traits
+Ability Score Increase. Two different ability scores increase by 1.
+Age. Humans reach adulthood at the age of 15, and live up to be 80.
+Affiliation. Humans tend toward no particular alignment. The best and the worst are found among them. Most are loyal to the Grand Alliance, but there are pockets of independents, horde-allied, or even those tied to the Burning Legion or Scourge as demon-worshipping Warlocks and Scourge-following Necromancers, respectively.
+Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Feat. You gain one feat of your choice.
+Human Spirit. You may grant yourself advantage to any one saving throw. After you use this ability, you can’t use it again until you finish a short rest. 
+Skillful. You gain proficiency with one skill or tool of your choice. You may not choose alchemist’s supplies, engineer’s tools, or infusion tools. 
+Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elven musical expressions, Dwarven military phrases, and so on.
+
+Male Names. Merander, Gyram, Derrick, Hebry.
+Female Names. Lilla, Merian, Richelle, Ammi.
+Family Names. Renn, Townguard, Silversmith, Runetouch.
+
+Orc
+“Lok’tar ogar!”
+To their enemies, they are brutal and fearsome opponents, without parallel in their ferocity and cunning. To their allies, they are noble and honorable, following the traditions of a rediscovered past. 
+The orcs of Azeroth are part of a race that has once again found its true spirit, shunning the cruel practices of arcane and demonic magic for the paths of wisdom and power. Some orcs still hang on to the arcane practices of the past, but their time is fading.
+The concept of honor pervades all echelons of orcish society. Even the naming of an orc is temporary until he has performed a rite of passage. Once an orc has brought honor to his name and the name of his clan, the elders give him a second name based upon his deed. For an orc, honor is as important as his clan, and most will die defending either clan or personal reputation. This is a new development for the orcs; before, when led by the forces tainted by the Burning Legion, the orcs were a bestial force barely controlled by demonic magic.
+As one of the orcish people, you may hail from the exodus lead by Warchiefs Thrall and Grom Hellscream, and belong to the core tribes that form the new Horde, such as the Warsong Clan, Frostwolf, and Bleeding Hollow Clan, or you may belong to one of the sinister demon-worshipping tribes, such as the Laughing Skull or the Burning Blade Clans. Alternatively, you may belong to one of the clans who have never left their homeland of Draenor, such as the Mag’har, who are brown in color. The greater the influence of fel on orcs, the brighter green their skin becomes. Some other clans have differently-colored skins, such as gray with yellow eyes (Dragonmaw Clan) or pale white (Shattered Hand Clan). 
+
+Orcish Traits
+Ability Score Increase. Your Strength score increases by 2, and your Stamina increases by 1. You may also choose one third ability score and increase it by 1. 
+Age. Orcs mature and age a little faster than humans, reaching adulthood around the age of 20 and rarely live up to be 100 years old.
+Affiliation. Horde. Thrall formed the Horde with determination and sheer will, and created an alliance of races that has shaken the foundations of the world to its core. Having destroyed the legacy of Grom Hellscream by bringing the orcs out of the depths of demon worship and servitude to unseen powers, Thrall rules the Horde in Kalimdor with wisdom and temperance. The orcs are as much a part of the Horde as the Horde is part of what the orcs have become.
+Size. Orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+Speed. Your base walking speed is 30 feet. 
+Darkvision. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Menacing. You gain proficiency in the Intimidation or Insight skills, and may can use Strength or Stamina for Intimidation checks instead of Charisma for Intimidation checks. 
+Warrior Tradition. You may choose two of the below warrior talents. You are treated as a 1st level warrior for these effects (unless you later take a level in warrior). 
+•	Aggressive. You gain the aggressive warrior talent of the same name. 
+•	Berserker Rage. You gain the berserker rage warrior talent of the same name. If you later gain the talent, increase the total times you can rage before a long rest by 1. You may also cast spells while raging, but this requires a concentration check (DC 10 + spell level). 
+•	Brutal Critical. You gain the brutal critical warrior talent of the same name.
+•	Relentless. You gain the relentless warrior talent of the same name. If you later gain the talent, you reduce the base DC by 5. 
+•	Shock Resistant. You gain the shock resistant warrior talent of the same name.
+Orcish Combat Training. You have proficiency with the battleaxe, handaxe, attack claws, and the shortbow.
+Languages. You can speak, read, and write Common and Orcish. Orcish is a harsh, grating language with hard consonants. 
+
+Male Names. Grom, Thrum, Drog, Gorrum, Harg, Thurg, Karg.
+Female Names. Groma, Hargu, Igrim, Agra, Dragga, Grima.
+Family Names. Doomhammer, Deadeye, Foebinder, Elfkiller, Skullsplitter, Axeripper, Tearshorn, Fistcrusher.
+
+Pandaren
+“You seem a little parched.”
+As a Pandaren, you are an honorable and filled with a love of good company, good food -- and every now and then, a good friendly brawl.
+The pandaren have been content to live in seclusion, allowing their culture to flourish and thrive away from the influence of the outside world. 
+However, every now and then, a pandaren is born with a thirst for adventure that rivals his or her thirst for a strong drink, and he or she strikes out to explore beyond Pandaria’s shores. One of the most famous of such wanderers was the brewmaster Chen Stormstout, who set out looking for exotic ingredients for his special ale and wound up an integral part of the founding of the Horde. During the bleak days that preceded the sundering of the world, when demons flooded onto Azeroth and threw the entirety of the mortal realm into jeopardy, the last Emperor of the pandaren discovered a way to protect his land from devastation. His deal with fate shrouded his land within an impenetrable mist for ten thousand years, but the nature of his transaction has left Pandaria haunted ever since.
+As a Pandaren, you may have been one of the wanderers that left the misty island to explore the outside world and bring news back home. 
+Your allies might wonder from where you came and whether they could visit your home, you know that the mists shall only lift when the time is right. 
+
+Pandaren Traits
+Ability Score Increase. Your Stamina score increases by 2, and your Spirit by 1. 
+Age. Pandaren reach adulthood on about the age of 80, and can live up to be 350. 
+Affiliation. Independent, Horde, or Alliance. Pandaren drift across affiliations, doing whatever they wish and making friends in either sides. 
+Size. Your size is medium. Pandaren average 5 1/2 feet in height, and make assured and precise movements, despite them often reaching the weight of 400 pounds. 
+Speed. Your base walking speed is 30 feet.
+Bouncy. You can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your Stamina modifier.
+Inner Peace. You have proficiency with the Insight and Perception skills. In addition, while you are wearing light or no armor, you gain a +1 bonus to Armor Class.
+Feat. You may choose one of the following feats: Tavern Brawler, Grappler, or Brew Mastery (if your starting class is monk). 
+Languages. You can speak, read, and write Common and Pandaren. 
+
+Male Names. Huojin, Aiguo, Dac Kien.
+Female Names. Jinjing, Xueyou, Ling, Vuong.
+Family Names. Stoneclaw, Firespear, Silentrunner, Winterwalker, Rainsword, Brewscroll, Whitebrow.
+
+Tauren
+“Walk with the earth mother.”
+The plains of Kalimdor have long been a home to these tremendous nomads. The tauren are a race of shamans, hunters and warriors who long ago developed a complex culture and system of living without the aid of stonework, steel or conquest. This is not to say that the tauren are a race of pacifists, for when they are angered they are capable of retaliating with swift and decisive brutality.
+As one of the Tauren peoples of Kalimdor, you prefer to act instead of talk, and seem to be brooding for most observers. Tauren rarely speak unless there is a true reason to, preferring to act instead of talk. However, once a tauren has learned to interact with a companion, there seems to be a more open and enthusiastic exchange of words. 
+
+Tauren Traits
+Ability Score Increase. Your Strength score increases by 2, and your Spirit increases by 1. 
+Age. A Tauren typically claims adulthood around the age of 50 and can live to be 150 years old.
+Affiliation. Horde. When the tauren first encountered the orcs of Thrall’s Horde, the tauren recognized the orcs as spiritual brethren. No other race shared such a similar outlook on the world, and the shamans of both races met frequently to discuss the matters of the spirit world. While the tauren see the orcs and trolls as potential friends to welcome, they rarely trust the Forsaken with more than a nod and a place to set their withered feet.
+Size. Tauren are much larger than other races. Males average 7 1/2 feet tall and 400 pounds, while females are usually a bit shorter and lighter. 
+Tauren are mostly muscle, having incredibly developed physiques and brawny frames most suitable for combat. They are medium sized. 
+Speed. Your base walking speed is 30 feet.
+Endurance. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. You also have resistance against poison damage. 
+Gore. You can use an attack action to make a gore attack with your horns. It is a melee unarmed attack that deals 1d8 piercing damage plus your Strength modifier. If you used the Dash action before the attack (such as spending last round to approach or having the ability to use it as a bonus action), you may also use the Shove action. This is a strike effect. 
+Plainswalker. Tauren can reach prodigious speed when continually moving. If you use the Dash action once per round for at least three rounds, you gather enough momentum to add a +10 bonus to your land speed, allowing you to travel as fast as a wolf (Speed 40). This bonus ends if you stop moving for any purpose. While benefitting from this speed, you are treated as if you are dashing for the purposes of the gore ability, and also have advantage to saving throws versus exhaustion from forced marches.
+Self-Mastery. You have proficiency with one of the following skills and one of the following tools:
+•	Spirit (Nature) or Spirit (Perception) 
+•	Mining tools or Herbalism kit
+Warstomp. You gain the Tremor warrior talent as a 1st level warrior. If you later gain the talent, you can use the talent two additional times. 
+Languages. Common, Taur-ahe. The language of the tauren is often harsh and slow-sounding, which is reflected in the names of their children.
+
+Male Names. Azok, Bron, Turok, Garaddon, Hruon, Jeddek.
+Female Names. Argo, Serga, Grenda, Beruna, Halfa.
+Family Names. Darkthorn, Thunderhoof, Stormhorn, Quillsplitter, Stonebreaker, Plainstalker, Spiritwalker
+
+Troll
+Several troll subspecies exist, and they are — almost universally – considered depraved by the civilized peoples of the world due to their brutality, cannibalistic ways, and use of dark magic. Jungle trolls are humanoids that live in Azeroth’s wilderness, and Ice trolls are known as the descendants of a vicious civilization that (to this day) resists the Lich King’s dominion in Northrend. 
+During Thrall’s exodus from Lordaeron, the Horde rescued the Darkspear tribe, jungle trolls who lived on one of the many islands in the great sea from the mysterious Sea Witch. The Darkspear tribe owes Thrall and the orcs a great debt, and allied themselves with the Horde in gratitude. Their relationship with the noble orcs and tauren has begun to change the Darkspear trolls’ dark ways. Jungle trolls are sly and cunning, and their society is tribal yet highly regimented. 
+Each tribe includes a chieftain, who is either the most powerful warrior in the tribe (called Shadow Hunters) or the most accomplished spellcaster (called Witch Doctors); the chieftain leads his soldiers in raids against other creatures. 
+As a troll, you are often viewed as vicious, brutal and evil, and history lends credence to this reputation. Waging constant wars against civilization and attempt to reclaim past glories is a fervent call for your people, who are seen (and commonly are) a lurking menace in any wilderness area and willingly ally themselves with other dark powers to achieve their goals. 
+Darkspear trolls of the Horde, however, deny this legacy. The Horde has taught them camaraderie, restraint and, to a lesser extent, kindness. Zandalari trolls are also a new addition to the Horde, and unlike most trolls, they have a continuous unbroken legacy of civilization—the Empire of Zandalar, a political entity that stood since the War of the Ancients. This lends them great clout among the other trolls, making their empire act as mediator in inter-troll affairs or when times of great troubles arise. 
+
+Trollish Traits
+Ability Score Increase. Your Agility score increases by 1, and your Stamina increases by 1.
+Age. Trolls reach adulthood at the age of 18, and live up to be 80 years old. 
+Affiliation. Troll affiliations are wildly different ever since the great Troll empires fell.
+Size. Trolls are larger and bulkier than humans, and they average around 7 feet tall and 200 pounds, although their lanky build and slouched pose undermines their height. Your size is Medium. 
+Speed. Your base walking speed is 30 feet. 
+Darkvision. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Ancient Culture. You can gain one of the below abilities.
+•	Berserker Warrior. You can rage as if you had the berserker rage warrior talent as a 1st level warrior. If you gain the talent, you increase the total times you can rage by 1. Your rage also increases the damage of ranged thrown attacks as if they were melee weapon attacks (so long as they use Strength). 
+•	Blessed by Loa. You know the vicious mockery cantrip. If you have the ability to cast spells, this consumes mana as normal. Otherwise, it has no cost to use. 
+•	Naturally-Attuned. You gain a favored terrain, as a 1st level hunter. If you ever become a hunter or gain a favored terrain, you may choose another while retaining this bonus. 
+Rapid Regeneration. Whenever you rest or are subject to healing, you can roll twice and take the higher result of any roll to grant you hit points. If this dice has a special effect on a certain result (such as of the holy priest and paladins’ Light’s Insight ability), you may either choose to roll the healing twice or roll maximized dice, not both. 
+You can also regrow a lost limb after a week of losing them, unless the limb was lost through your own will or through magic, so long as you have adequate rest and satiation. 
+Keen Nose. You have advantage on all Spirit (Perception) tests related to smell.
+Troll Combat Training. You have proficiency with the battleaxe, handaxe, and all weapons that have the thrown or ammunition properties, except firearms (unless proficient otherwise).
+Languages. You can speak, read, and write Common and Troll. 
+
+Male Names. Drak, Gul, Zol, Vol, Ros, Mig, Gal, Doth, Mag, Ran, Vis.
+Female Names. Moor, Mesk, Dan, Mel, Shi, Mith, Hai, So, Lith, Arn, Din, Mak.
+Family Names. Trolls usually employ titles rather than family names, but commonly take their tribe name as a family name. 
+
+Subrace. Ancient divides among the troll-folk resulted in two main subraces: forest trolls, and ice trolls. Choose one of these subraces.
+Note. Jungle trolls are treated as forest trolls. 
+
+Forest Troll (Darkspear)
+“What’cha want me do?”
+
+As a forest troll, you belong to the Darkspear tribe, the Zandalari, or their associates (such as most trolls who inhabit the isles of the Great Sea). 
+Ability Score Increase. Your Agility score increases by 1.
+Affiliation. Horde or Independent. Darkspear jungle trolls are steadfastly loyal to the orcs. Though they practice voodoo and many retain their savage natures, Thrall lets them live in his borders and generally do what they want. They feel a great debt to the orcs, and their time fighting alongside the tauren has made them friends of these creatures as well. They are suspicious of the Forsaken, but so is everyone else. 
+Dark Promise. Forest trolls have innate aptitudes that usually only show when they develop. Choose one of the below abilities. 
+•	You have proficiency with alchemist’s supplies and the alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you later gain Alchemy, you gain expertise in the skill instead. 
+•	You gain proficiency with the Charisma (Intimidation) and Agility (Stealth) skills. 
+
+Ice Troll (Drakkari) 
+“You got it...heh heh eh…”
+
+As an ice troll, you belong to the tribes in Northrend or high mountains in Azeroth (such as Khaz Modan), commonly the Drakkari or Frostmane tribe, respectively. Ice trolls average one foot taller than other trolls. 
+
+Ability Score Increase. Your Stamina and Strength scores increases by 1.
+Affiliation. Independent. Ice trolls are steadfastly loyal to themselves above all others, and typically show loyalty to their tribes and kings, although they often also see the uses of allying with the Horde (especially those who might share their ancestral hate to the Alliance’s dwarves, elves, and humans). 
+Hostile Homeland. You gain resistance to cold damage. 
+
+Sand Troll (Farraki)
+“Feel the fury of the sands!”
+- Chief Ukorz Sandscalp
+
+Sand Trolls are identical to Ice Trolls in racial bonuses. However, they have adapted to the harsh winds and heat of the deserts of Tanaris. They usually belong to the Sandfury (Farraki) or Sandscalp tribes. 
+
+Affiliation. Independent. Sand trolls are loyal to their clans, and resist intruders by conducting hit-and-run raids from the depths of the desert while astride swift raptors. Some sand trolls have chosen to ally with the Horde, usually after extended interaction with goblin holds at the shores of Tanaris. 
+Hostile Homeland. This acts as the feature of the same name Ice Trolls gain, except that you may resist fire instead. 
+
+Worgen
+“Get gabbin’ or get going.”
+The worgen's first verified appearance in the Eastern Kingdoms has been traced back to the Third War, when the archmage Arugal utilized the wolf-beasts as a weapon against the Scourge. Arugal's weapons soon turned against him, however, as the curse of the worgen rapidly spread among the human population, transforming ordinary men and women into ravenous, feral creatures. Arugal adopted many of the worgen as his own and retreated to the former mansion of Baron Silverlaine, the estate now known as Shadowfang Keep. The curse, however, was not contained. It persisted in the lands of Silverpine and extended even into the walled nation of Gilneas, where the curse rapidly reached pandemic levels.
+The citizens of the human nation of Gilneas found themselves trapped, with no hope of escape. They retreated deeper within the isolated domain, and there they survived, fearful of the savage presence that lurked just outside the barricades. Tensions among the displaced citizens escalated over time, resulting in a civil war that now threatens to destabilize the embattled nation even more.
+Records indicate that the worgen, a race of lupine humanoids, existed for a time in Kalimdor. Other evidence also suggested that the Worgen were from a different world that came through portals by Archmage Arugal. More recent evidence suggested that their true origin might have a connection to the night elves and a secretive druidic order from Kalimdor's distant past. 
+It were the night elves who (by happenstance) created the curse in the first place. Obliged to help their newfound allies, they re-introduced them to the Alliance.
+There are those among the Gilneans, however, who cling to hope. Many believe that a cure for the worgen curse may exist, although others have nearly given up, fearful that if they should lose hope, their humanity will be lost forever.
+
+Worgen Traits
+Ability Score Increase. Your Agility score increases by 2 and your Strength score increases by 1.
+Age. As humans.
+Affiliation. Independent or Alliance. The Worgen of Gilneas re-joined their brethren of the Alliance once the Worgen Curse spread through their people, but in most cases, Worgen prefer to cater to their own hungers and ambitions.
+Size. Worgens are about the same size as humans when in humanoid and Worgen form. Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. Your curse grants you the ability to see in dark conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Aberration. You have advantage to saves against poisons and resistance against poison damage. 
+Worgen Form. On your turn, you can shift from human form to worgen form as a bonus action. Shifting lasts until you end it on your turn as a bonus action. While shifting, you gain temporary hit points equal to your level + your Stamina bonus (minimum of 1), although you can only gain temporary hit points once per long rest, regardless of how many times you shift to worgen form. You also gain features described below. 
+•	You can roll a 1d6 dice for your unarmed attack when you bite (piercing damage), or a 1d4 for your unarmed attack if you use your claws (slashing damage). These can replace your original human natural attacks. 
+•	When you use the Attack action with an unarmed strike with your natural weapon on your turn, you can make another unarmed strike as a bonus action. 
+For example, if you take the Attack action and attack with your claws, you can also make an unarmed strike (bite) as a bonus action, assuming you haven't already taken a bonus action this turn.
+•	You can use the Dash action as a bonus action. 
+•	Any attack you make with your claw can grapple a target if they are your size or smaller. 
+•	Your natural weapon dice increases in strength as if you were a monk equal to your level for your claw attack, or a monk four levels higher for your bite attack (up to a maximum of 2d6 damage if at level 17 or above). For example, a 7th level Worgen warrior’s claws deal 1d6 damage (from 1d4), and their bite deals 1d8 damage. 
+•	If you have a magic weapon, you can fold its power into your form while you are shifting. While shifted, you cannot use the magic weapon, but can treated your unarmed attacks as if magical. 
+Languages. You can speak, read, and write Common and one other language of your choice.
+
+Worgen Names follow the same conventions as human names. 
+
+Half-breed Race
+The Warcraft universe also has its share of mixed-origin characters (or half races), most commonly half-elves (human and elves of any type), half-orcs (human and orcs, or draenei and orcs), and half-ogres (orcs and ogres). Some of the more famous examples are Garona Halforcen and the half elven Alodi, the first Guardian. 
+Mixed races are treated as both races with spells, magic effects, and mechanical purposes, but may be looked down upon by their parent races. 
+
+Half-breed Traits
+Ability Score Increase. The creature chooses one of either parents' racial attributes. 
+Affiliation. The creature usually either falls to either parents' affiliation or is independent. 
+Size. The creature is the average in size of both parents (if they are not both Medium sized).
+Speed. The creature moves at an average of both parents (if they are not both 30 ft.)
+Racial traits. The creature chooses one of either parents' racial traits. 
+Racial penalties. The creature takes all racial penalties of both parents (if present, such as blood elves’ mana addiction). 
+Languages. The creature gains the languages of both parents. 
+
+Names. Follows the naming conventions of both parents or may be wholly original. Usually mixed creatures are titled by their ancestry, such as 'Halforcen,' 'half elven', or even 'half human' depending on their actions and history. 
+For example, Drann Halforcen, (orc father, draenei mother) can choose his father's (+2 to Strength, +1 to Stamina) or his mother's (+2 to Strength, +1 to Spirit) racial attribute bonuses. The character may then make a decision on which race is he closer biologically to (gaining all Draenei racial traits if the maternal side is dominant, or all Orc traits if their paternal side is dominant). 
+He would gain both Common, Orcish, and uncorrupted Eredun in either case.

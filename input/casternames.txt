@@ -1,0 +1,9 @@
+Alchemist
+Death Knight
+Druid
+Mage
+Hunter
+Paladin
+Priest
+Shaman
+Warlock
